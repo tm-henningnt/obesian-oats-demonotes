@@ -11,6 +11,12 @@ type: meeting
 **Attendees:** Alex Lindström, Erik Hansen, Maja Solberg, Jonas Berg, Lisa Park (Security)
 **Location:** Virtual (Teams)
 
+## Agenda
+
+1. Review proposed AKS cluster architecture
+2. Security considerations
+3. Monitoring and observability
+
 ## Discussion
 
 Erik walked through the proposed cluster architecture. Two node pools: system (always-on, 3 nodes) and user (auto-scaling 2-8 nodes).
@@ -36,6 +42,12 @@ graph TD
     ANALYTICS --> PG[(PostgreSQL)]
     REPORTS --> PG
 ```
+
+## Decisions
+
+- Two node pools: system (3 nodes) and user (auto-scaling 2-8)
+- Prometheus + Grafana for monitoring, Azure Monitor as backup
+- Azure Policy for pod security standards
 
 ## Action Items
 
