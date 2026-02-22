@@ -10,6 +10,12 @@ type: meeting
 **Date:** 2026-02-17
 **Attendees:** Alex, Erik, Maja, Sofie, Jonas
 
+## Agenda
+
+1. Individual status updates
+2. Blockers and dependencies
+3. Decisions
+
 ## Discussion
 
 - Alex: Working on Grafana dashboards for AKS monitoring. Meeting with Karin Thursday about Q2 roadmap.
@@ -23,3 +29,9 @@ type: meeting
 - Chart annotations: Add to backlog for v1.1
 - Alex will review DB schema by EOD Tuesday
 - Team dinner: Friday Feb 21, 18:00 at Fiskeriet
+
+## Action Items
+
+- [ ] Alex: Review database schema by EOD Tuesday @Alex <!-- task:ws-1 -->
+- [ ] Sofie: Demo chart library Wednesday @Sofie <!-- task:ws-2 -->
+- [ ] Maja: Investigate CSV import performance issue @Maja <!-- task:ws-3 -->
