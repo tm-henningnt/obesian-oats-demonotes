@@ -10,7 +10,7 @@ type: meeting
 **Date:** 2026-02-17
 **Attendees:** Alex, Erik, Maja, Sofie, Jonas
 
-## Round Table
+## Discussion
 
 **Alex:** Working on Grafana dashboards for AKS monitoring. Meeting with Karin Thursday about Q2 roadmap.
 
