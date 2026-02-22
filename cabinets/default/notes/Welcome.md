@@ -2,7 +2,7 @@
 id: "6b876a73-75f6-477f-bd1e-b8626f1d7d7d"
 title: Welcome
 created: "2026-02-22T11:04:58.738Z"
-updated: "2026-02-22T11:05:00.223Z"
+updated: "2026-02-22T11:27:04.446Z"
 ---
 # Welcome to My Notes
 
@@ -11,9 +11,12 @@ This is my personal knowledge base powered by **Obesian Oats**. I keep everythin
 ## How I Organize
 
 - **Work/** — Projects, meetings, team info, and professional resources
+  - **Projects/** — Active project plans with milestones and tasks
+  - **Meetings/** — Meeting notes with action items and decisions
+  - **Team/** — Contacts, onboarding docs, and team agreements
 - **Personal/** — Journal, recipes, travel plans, fitness tracking
 - **diary/** — Daily entries with tasks and reflections
-- **Quick Notes/** — Fleeting ideas and scratch space
+- **Quick Notes/** — Fleeting ideas, scratch pad, and brainstorms
 
 ## Quick Links
 
@@ -22,3 +25,5 @@ This is my personal knowledge base powered by **Obesian Oats**. I keep everythin
 - [[My Tasks|Current Tasks]]
 - [[My Bookmarks|Bookmarks]]
 - [[My Contacts|Contacts]]
+- [[Work/Weekly Review Feb 14|Latest Weekly Review]]
+- [[Personal/Journal|Journal]]
