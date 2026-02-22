@@ -10,15 +10,15 @@ type: meeting
 **Date:** 2026-02-14
 **Attendees:** Alex Lindström, Erik Hansen, Maja Solberg, Sofie Dahl, Jonas Berg
 
-## What Went Well 🎉
+## Discussion
 
+**What Went Well 🎉**
 - Customer Dashboard SSO integration shipped ahead of schedule
 - Platform migration staging environment is up and running
 - Team morale is high, good energy in daily standups
 - Zero production incidents this sprint!
 
-## What Could Be Improved 🔧
-
+**What Could Be Improved 🔧**
 - Too many context switches between migration and dashboard work
 - Code review turnaround time averaging 2 days — target is < 1 day
 - Flaky integration tests blocking PRs
