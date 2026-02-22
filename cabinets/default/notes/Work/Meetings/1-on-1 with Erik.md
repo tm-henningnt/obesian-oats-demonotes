@@ -10,6 +10,12 @@ type: meeting
 **Date:** 2026-02-19
 **Location:** Coffee corner, 3rd floor
 
+## Agenda
+
+1. Project workload and focus areas
+2. Career development
+3. Personal catch-up
+
 ## Discussion
 
 Erik is generally happy. Enjoying the migration work — feels technically challenging in a good way. Mentioned he appreciates the autonomy to make architectural decisions.
