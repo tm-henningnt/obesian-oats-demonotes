@@ -9,33 +9,33 @@ type: links
 
 ## Daily Use
 
-- [Gmail](https://mail.google.com) — Personal email
-- [GitHub](https://github.com) — Code and projects
-- [Slack](https://northwind.slack.com) — Team communication
-- [Vercel](https://vercel.com/dashboard) — Deployments
+- [Gmail](https://mail.google.com) - Personal email
+- [GitHub](https://github.com) - Code and projects
+- [Slack](https://northwind.slack.com) - Team communication
+- [Vercel](https://vercel.com/dashboard) - Deployments
 
 ## News & Learning
 
-- [Hacker News](https://news.ycombinator.com) — Tech news
-- [dev.to](https://dev.to) — Developer community
-- [CSS-Tricks](https://css-tricks.com) — CSS reference
-- [MDN Web Docs](https://developer.mozilla.org) — Web standards
+- [Hacker News](https://news.ycombinator.com) - Tech news
+- [dev.to](https://dev.to) - Developer community
+- [CSS-Tricks](https://css-tricks.com) - CSS reference
+- [MDN Web Docs](https://developer.mozilla.org) - Web standards
 
 ## Tools
 
-- [Excalidraw](https://excalidraw.com) — Quick diagrams
-- [regex101](https://regex101.com) — Regex testing
-- [Carbon](https://carbon.now.sh) — Code screenshots
-- [Squoosh](https://squoosh.app) — Image compression
+- [Excalidraw](https://excalidraw.com) - Quick diagrams
+- [regex101](https://regex101.com) - Regex testing
+- [Carbon](https://carbon.now.sh) - Code screenshots
+- [Squoosh](https://squoosh.app) - Image compression
 
 ## Shopping
 
-- [Komplett](https://www.komplett.no) — Electronics
-- [Elkjøp](https://www.elkjop.no) — Home tech
-- [Kolonial/Oda](https://oda.com) — Online groceries
+- [Komplett](https://www.komplett.no) - Electronics
+- [Elkjøp](https://www.elkjop.no) - Home tech
+- [Kolonial/Oda](https://oda.com) - Online groceries
 
 ## Travel
 
-- [Norwegian](https://www.norwegian.com) — Flights
-- [Airbnb](https://www.airbnb.com) — Accommodation
-- [Google Maps](https://maps.google.com) — Navigation
+- [Norwegian](https://www.norwegian.com) - Flights
+- [Airbnb](https://www.airbnb.com) - Accommodation
+- [Google Maps](https://maps.google.com) - Navigation
