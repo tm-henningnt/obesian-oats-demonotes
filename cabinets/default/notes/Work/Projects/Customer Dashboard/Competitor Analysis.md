@@ -2,7 +2,7 @@
 id: "8bcb335f-902a-4a19-9d98-663dfa06d948"
 title: Competitor Analysis
 created: "2026-02-22T11:25:49.581Z"
-updated: "2026-02-22T11:25:52.735Z"
+updated: "2026-02-22T20:33:14.697Z"
 ---
 ## Competitor Analysis — Analytics Dashboards
 
@@ -10,17 +10,17 @@ Analyzed 4 competing solutions to inform our dashboard design decisions.
 
 ### Feature Comparison
 
-| Feature | Metabase | Looker | Tableau | PowerBI | **Ours** |
-|---------|----------|--------|---------|---------|----------|
-| Self-hosted option | ✅ | ❌ | ❌ | ❌ | ✅ |
-| Custom branding | ❌ | ✅ | ✅ | ✅ | ✅ |
-| Row-level security | ✅ | ✅ | ✅ | ✅ | ✅ |
-| Scheduled reports | ✅ | ✅ | ✅ | ✅ | ✅ |
-| Drag-drop layout | ❌ | ✅ | ✅ | ✅ | ✅ |
-| API access | ✅ | ✅ | Limited | ✅ | ✅ |
-| SSO (SAML/OIDC) | Enterprise | ✅ | ✅ | ✅ | ✅ |
-| Mobile responsive | Partial | ✅ | ✅ | ✅ | ✅ |
-| Price per user/mo | Free-$110 | $60+ | $70+ | $10+ | Custom |
+| Feature            | Metabase   | Looker | Tableau | PowerBI | **Ours** |
+| ------------------ | ---------- | ------ | ------- | ------- | -------- |
+| Self-hosted option | ✅          | ❌      | ❌       | ❌       | ✅        |
+| Custom branding    | ❌          | ✅      | ✅       | ✅       | ✅        |
+| Row-level security | ✅          | ✅      | ✅       | ✅       | ✅        |
+| Scheduled reports  | ✅          | ✅      | ✅       | ✅       | ✅        |
+| Drag-drop layout   | ❌          | ✅      | ✅       | ✅       | ✅        |
+| API access         | ✅          | ✅      | Limited | ✅       | ✅        |
+| SSO (SAML/OIDC)    | Enterprise | ✅      | ✅       | ✅       | ✅        |
+| Mobile responsive  | Partial    | ✅      | ✅       | ✅       | ✅        |
+| Price per user/mo  | Free-$110  | $60+   | $70+    | $10+    | Custom   |
 
 ### Key Takeaways
 
@@ -43,6 +43,7 @@ Analyzed 4 competing solutions to inform our dashboard design decisions.
 ### Pricing Strategy
 
 Recommend per-tenant pricing (not per-user) to align with customer expectations:
+
 - Starter: 3 dashboards, 10 users — bundled free
 - Professional: Unlimited dashboards, 50 users — NOK 5,000/month
 - Enterprise: Unlimited everything + API + SSO — NOK 15,000/month
