@@ -5,17 +5,17 @@ created: "2026-02-22T11:25:54.387Z"
 updated: "2026-02-22T11:25:57.444Z"
 type: meeting
 ---
-## Customer Feedback Session — Acme Corp
+# Customer Feedback Session — Acme Corp
 
 **Date:** 2026-02-12
 **Attendees:** Alex Lindström, Sofie Dahl, Henrik Voss (Acme Corp, VP Analytics), Anna Berge (Acme Corp, Data Analyst)
 **Location:** Virtual (Teams)
 
-### Agenda
+## Agenda
 
 Demo our dashboard prototype and gather feedback from pilot customer.
 
-### Demo Feedback
+## Discussion
 
 Henrik was impressed with the overall look and feel. Called it "much better than what we have now with the PDF reports." Anna had more detailed feedback:
 
@@ -37,14 +37,14 @@ Henrik was impressed with the overall look and feel. Called it "much better than
 3. Embeddable widgets via iframe (for their internal portal)
 4. Custom color themes beyond just dark/light
 
-### Action Items
+## Action Items
 
 - [ ] Sofie: Add comparison period toggle to chart widgets due:2026-03-05 @Sofie <!-- task:cf-1 -->
 - [ ] Erik: Implement column sort/search in table widget due:2026-03-01 @Erik <!-- task:cf-2 -->
 - [ ] Alex: Evaluate email alerting feasibility for v1.1 due:2026-02-25 @Alex <!-- task:cf-3 -->
 - [ ] Sofie: Mockup embeddable widget concept due:2026-03-10 @Sofie <!-- task:cf-4 -->
 
-### Quotes
+## Decisions
 
 > "If you ship this by April, we can cancel our Tableau license." — Henrik Voss
 
