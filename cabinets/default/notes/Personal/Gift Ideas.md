@@ -2,30 +2,27 @@
 id: "de3c2bf5-3619-42a3-96d7-65ec7e2193f6"
 title: Gift Ideas
 created: "2026-02-22T11:14:53.248Z"
-updated: "2026-02-22T11:14:55.347Z"
+updated: "2026-02-22T17:52:08.107Z"
 type: todo
 ---
 # Gift Ideas
 
-<!-- oats:todo-settings {"listLayout":"area"} -->
+<!-- oats:todo-settings {"viewMode":"board","listLayout":"area","boardGrouping":"priority"} -->
 
 ## High Priority
-
-- [ ] Ceramic workshop class at Keramikkverkstedet [cat:Marte] <!-- task:gift-1 -->
-- [ ] "Norwegian Wood" cookbook by Trina Hahnemann [cat:Marte] <!-- task:gift-2 -->
-- [ ] Cashmere scarf from Oleana [cat:Marte] <!-- task:gift-3 -->
-- [ ] Spa day at The Well [cat:Marte] <!-- task:gift-4 -->
+- [ ] Ceramic workshop class at Keramikkverkstedet [cat:Marte] <!-- task:v5mxfrra -->
+- [ ] "Norwegian Wood" cookbook by Trina Hahnemann [cat:Marte] <!-- task:ytklkgiu -->
+- [ ] Cashmere scarf from Oleana [cat:Marte] <!-- task:zrw0hqn6 -->
+- [ ] Spa day at The Well [cat:Marte] <!-- task:az2ij975 -->
 
 ## Normal
-
-- [ ] Garden tools set (hers are ancient) [cat:Mom] <!-- task:gift-5 -->
-- [ ] Photo book of last year's family cabin trip [cat:Mom] <!-- task:gift-6 -->
-- [ ] Subscription to Norsk Ukeblad [cat:Mom] <!-- task:gift-7 -->
-- [ ] Fancy coffee beans from Tim Wendelboe [cat:Erik] <!-- task:gift-8 -->
-- [ ] Board game (he mentioned wanting Wingspan) [cat:Erik] <!-- task:gift-9 -->
+- [ ] Garden tools set (hers are ancient) [cat:Mom] <!-- task:1ni6a3dc -->
+- [ ] Photo book of last year's family cabin trip [cat:Mom] <!-- task:kpgr8045 -->
+- [ ] Subscription to Norsk Ukeblad [cat:Mom] <!-- task:ry5pkdyx -->
+- [ ] Fancy coffee beans from Tim Wendelboe [cat:Erik] <!-- task:hky463mg -->
+- [ ] Board game (he mentioned wanting Wingspan) [cat:Erik] <!-- task:hq5sbz4i -->
 
 ## Low Priority
-
-- [ ] Garmin Forerunner 265 (running watch upgrade) [cat:Wish List] <!-- task:gift-10 -->
-- [ ] AirPods Pro 3 [cat:Wish List] <!-- task:gift-11 -->
-- [ ] Standing desk converter for home office [cat:Wish List] <!-- task:gift-12 -->
+- [ ] Garmin Forerunner 265 (running watch upgrade) [cat:Wish List] <!-- task:2nfl3f9m -->
+- [ ] AirPods Pro 3 [cat:Wish List] <!-- task:incevkql -->
+- [ ] Standing desk converter for home office [cat:Wish List] <!-- task:gl65b4qg -->
