@@ -2,21 +2,21 @@
 id: "9347a962-3eb7-4838-bae4-71ac5dae6edd"
 title: Workout Plan
 created: "2026-02-22T11:14:46.450Z"
-updated: "2026-02-22T11:14:48.530Z"
+updated: "2026-02-22T20:05:24.347Z"
 ---
 ## Current Workout Plan — Q1 2026
 
 ### Schedule
 
-| Day | Focus | Duration |
-|-----|-------|----------|
-| Monday | Strength — Upper Body | 60 min |
-| Tuesday | Running — Easy 5K | 30 min |
-| Wednesday | Strength — Lower Body | 60 min |
-| Thursday | Rest or yoga | — |
-| Friday | Running — Intervals | 45 min |
-| Saturday | Strength — Full Body | 75 min |
-| Sunday | Long run (10-15K) | 60-90 min |
+| Day       | Focus                 | Duration  |
+| --------- | --------------------- | --------- |
+| Monday    | Strength — Upper Body | 60 min    |
+| Tuesday   | Running — Easy 5K     | 30 min    |
+| Wednesday | Strength — Lower Body | 60 min    |
+| Thursday  | Rest or yoga          | —         |
+| Friday    | Running — Intervals   | 45 min    |
+| Saturday  | Strength — Full Body  | 75 min    |
+| Sunday    | Long run (10-15K)     | 60-90 min |
 
 ### Strength — Upper Body (Monday)
 
@@ -37,12 +37,12 @@ updated: "2026-02-22T11:14:48.530Z"
 
 ### Current PRs (Feb 2026)
 
-| Lift | Weight | Date |
-|------|--------|------|
-| Deadlift | 140kg | Feb 15 |
-| Squat | 120kg | Jan 28 |
-| Bench Press | 90kg | Feb 3 |
-| Overhead Press | 55kg | Jan 15 |
+| Lift           | Weight | Date   |
+| -------------- | ------ | ------ |
+| Deadlift       | 140kg  | Feb 15 |
+| Squat          | 120kg  | Jan 28 |
+| Bench Press    | 90kg   | Feb 3  |
+| Overhead Press | 55kg   | Jan 15 |
 
 ### Running Goals
 
