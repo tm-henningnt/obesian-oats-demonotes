@@ -10,6 +10,12 @@ type: meeting
 **Date:** 2026-02-14
 **Attendees:** Alex Lindström, Erik Hansen, Maja Solberg, Sofie Dahl, Jonas Berg
 
+## Agenda
+
+1. What went well
+2. What could be improved
+3. Action items for next sprint
+
 ## Discussion
 
 **What Went Well 🎉**
@@ -23,6 +29,12 @@ type: meeting
 - Code review turnaround time averaging 2 days — target is < 1 day
 - Flaky integration tests blocking PRs
 - Documentation falling behind
+
+## Decisions
+
+- Implement code review rotation to reduce turnaround time
+- Dedicate 30 min/week per person for documentation
+- Fix flaky tests before adding new ones
 
 ## Action Items
 
