@@ -12,18 +12,14 @@ type: meeting
 
 ## Discussion
 
-**Alex:** Working on Grafana dashboards for AKS monitoring. Meeting with Karin Thursday about Q2 roadmap.
-
-**Erik:** Finished network policy implementation. Starting on Customer Dashboard data API. Blocked on database schema review.
-
-**Sofie:** Chart library going well — bar and line charts done, working on pie charts. Will demo Wednesday.
-
-**Maja:** ETL Blob Storage migration is 80% complete. Found performance issue with large CSV imports.
-
-**Jonas:** Fixed 4 of 7 flaky tests. CI pipeline for AKS is green — deployed to staging yesterday.
+- Alex: Working on Grafana dashboards for AKS monitoring. Meeting with Karin Thursday about Q2 roadmap.
+- Erik: Finished network policy implementation. Starting on Customer Dashboard data API. Blocked on database schema review.
+- Sofie: Chart library going well — bar and line charts done, working on pie charts. Will demo Wednesday.
+- Maja: ETL Blob Storage migration is 80% complete. Found performance issue with large CSV imports.
+- Jonas: Fixed 4 of 7 flaky tests. CI pipeline for AKS is green — deployed to staging yesterday.
 
 ## Decisions
 
-1. ✅ Chart annotations: Add to backlog for v1.1
-2. ✅ Alex will review DB schema by EOD Tuesday
-3. ✅ Team dinner: Friday Feb 21, 18:00 at Fiskeriet
+- Chart annotations: Add to backlog for v1.1
+- Alex will review DB schema by EOD Tuesday
+- Team dinner: Friday Feb 21, 18:00 at Fiskeriet
