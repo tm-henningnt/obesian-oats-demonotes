@@ -5,7 +5,7 @@ created: "2026-02-22T11:13:32.012Z"
 updated: "2026-02-22T11:14:19.172Z"
 type: contacts
 ---
-## Northwind Analytics — Platform Team
+# Team Contacts
 
 ### Alex Lindström
 - **Role:** Tech Lead
@@ -13,14 +13,14 @@ type: contacts
 - **Phone:** +47 912 34 567
 - **Location:** Oslo Office, 3rd Floor
 - **GitHub:** @alexlind
-- **Skills:** Architecture, Kubernetes, TypeScript
+- **Notes:** Architecture, Kubernetes, TypeScript
 
 ### Erik Hansen
 - **Role:** Senior Backend Developer
 - **Email:** erik.hansen@northwind.no
 - **Phone:** +47 923 45 678
 - **GitHub:** @erikhansen
-- **Skills:** Go, PostgreSQL, Redis, gRPC
+- **Notes:** Go, PostgreSQL, Redis, gRPC
 
 ### Maja Solberg
 - **Role:** Data Engineer
@@ -28,18 +28,18 @@ type: contacts
 - **Phone:** +47 934 56 789
 - **Location:** Bergen Office (remote)
 - **GitHub:** @majasolberg
-- **Skills:** Python, Spark, Azure Data Factory
+- **Notes:** Python, Spark, Azure Data Factory
 
 ### Sofie Dahl
 - **Role:** Frontend Developer
 - **Email:** sofie.dahl@northwind.no
 - **Phone:** +47 945 67 890
 - **GitHub:** @sofiedahl
-- **Skills:** React, TypeScript, CSS, Accessibility
+- **Notes:** React, TypeScript, CSS, Accessibility
 
 ### Jonas Berg
 - **Role:** DevOps Engineer
 - **Email:** jonas.berg@northwind.no
 - **Phone:** +47 956 78 901
 - **GitHub:** @jonasberg
-- **Skills:** GitHub Actions, Terraform, Kubernetes
+- **Notes:** GitHub Actions, Terraform, Kubernetes
