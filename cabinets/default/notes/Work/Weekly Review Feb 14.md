@@ -27,13 +27,13 @@ type: "weekly-review"
 
 ## Next Week's Focus
 
-- [ ] Complete Grafana dashboards due:2026-02-20 @Alex <!-- task:wr-1 -->
-- [ ] Q2 roadmap presentation due:2026-02-20 @Alex <!-- task:wr-2 -->
-- [ ] Database schema review due:2026-02-18 @Alex <!-- task:wr-3 -->
-- [ ] Schedule team dinner <!-- task:wr-4 -->
+1. Complete Grafana dashboards @Alex
+2. Q2 roadmap presentation @Alex
+3. Database schema review @Alex
+4. Schedule team dinner
 
 ## Gratitude
 
-Energy level: ⭐⭐⭐⭐ (Good week!)
-Focus time: ~18 hours (target: 20)
-Exercise: 3 runs, 1 gym session ✅
+- Energy level: ⭐⭐⭐⭐ (Good week!)
+- Focus time: ~18 hours (target: 20)
+- Exercise: 3 runs, 1 gym session ✅
