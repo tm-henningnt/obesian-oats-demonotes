@@ -5,9 +5,10 @@ created: "2026-02-22T11:13:46.664Z"
 updated: "2026-02-22T11:14:28.852Z"
 type: journal
 ---
-## My Running Journal
+# My Running Journal
 
-### 2026-02-20, Thursday
+## 2026-02-20, Thursday
+<!-- journal-entry:j-1 -->
 
 Interesting day at work. The AKS architecture review went well — Lisa from Security gave us some great feedback that will save headaches later. Need to remember to follow up on the Key Vault integration.
 
@@ -15,7 +16,10 @@ Had a good run after work, 7km along the Akerselva river trail. The days are get
 
 Started reading "Staff Engineer" by Will Larson. Only two chapters in but already finding good insights about technical leadership beyond the management track.
 
-### 2026-02-18, Tuesday
+---
+
+## 2026-02-18, Tuesday
+<!-- journal-entry:j-2 -->
 
 Productive morning — knocked out the database schema review that Erik was waiting on. The schema looks solid, just suggested a few index optimizations for the dashboard queries.
 
@@ -23,7 +27,10 @@ Tried a new recipe for Thai red curry tonight. Used fresh lemongrass from the As
 
 Watching the Northern Lights forecast for this week. There is supposed to be increased solar activity and we might get a show visible from Oslo. Need to get out of the city light pollution though.
 
-### 2026-02-15, Saturday
+---
+
+## 2026-02-15, Saturday
+<!-- journal-entry:j-3 -->
 
 Lazy Saturday morning with coffee and the newspaper. Planned the [[Personal/Travel/Iceland Summer Trip|Iceland trip]] — booked the car rental and mapped out the Ring Road route. Cannot wait for July!
 
@@ -31,7 +38,10 @@ Went to the gym in the afternoon. Hit a new deadlift PR: 140kg. Progressive over
 
 Cooked dinner for friends in the evening. Made the mushroom risotto — always a crowd pleaser. Good conversations about everything from politics to hiking plans for Easter.
 
-### 2026-02-10, Monday
+---
+
+## 2026-02-10, Monday
+<!-- journal-entry:j-4 -->
 
 First day back after a relaxing weekend cabin trip to Nordmarka. No phone service, just cross-country skiing, card games, and good food. Exactly what I needed.
 
