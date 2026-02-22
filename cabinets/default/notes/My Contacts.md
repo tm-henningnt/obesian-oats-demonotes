@@ -5,7 +5,7 @@ created: "2026-02-22T11:15:35.049Z"
 updated: "2026-02-22T11:15:37.064Z"
 type: contacts
 ---
-## Personal Contacts
+# My Contacts
 
 ### Marte Eriksen
 - **Relationship:** Partner
