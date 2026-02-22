@@ -5,13 +5,13 @@ created: "2026-02-22T11:11:59.174Z"
 updated: "2026-02-22T11:14:13.690Z"
 type: meeting
 ---
-## AKS Architecture Review
+# AKS Architecture Review
 
 **Date:** 2026-02-05
 **Attendees:** Alex Lindström, Erik Hansen, Maja Solberg, Jonas Berg, Lisa Park (Security)
 **Location:** Virtual (Teams)
 
-### Discussion
+## Discussion
 
 Erik walked through the proposed cluster architecture. Two node pools: system (always-on, 3 nodes) and user (auto-scaling 2-8 nodes).
 
@@ -37,7 +37,7 @@ graph TD
     REPORTS --> PG
 ```
 
-### Action Items
+## Action Items
 
 - [x] Erik: Implement network policies <!-- task:ar-1 -->
 - [x] Jonas: Set up Key Vault CSI driver <!-- task:ar-3 -->
