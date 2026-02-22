@@ -2,7 +2,7 @@
 id: "02b1c66e-2063-404d-913c-09b8fc30e112"
 title: Customer Dashboard
 created: "2026-02-22T11:11:53.656Z"
-updated: "2026-02-22T11:11:53.656Z"
+updated: "2026-02-22T11:11:55.040Z"
 type: project
 ---
-placeholder
+## Customer-Facing Analytics Dashboard\n\nSelf-service analytics dashboard for enterprise customers. Replaces the current static PDF reports with interactive, real-time visualizations.\n\n### Vision\n\nGive customers direct access to their data through a modern, responsive dashboard with customizable widgets, scheduled reports, and API access.\n\n### Milestones\n\n- [x] User research and wireframes <!-- task:cd-1 -->\n- [x] Design system and component library <!-- task:cd-2 -->\n- [x] Authentication with customer SSO <!-- task:cd-3 -->\n- [x] Core dashboard layout with drag-and-drop widgets <!-- task:cd-4 -->\n- [ ] Chart library integration (bar, line, pie, map) due:2026-02-28 @Sofie <!-- task:cd-5 -->\n- [ ] Data API with row-level security due:2026-03-10 @Erik <!-- task:cd-6 -->\n- [ ] Scheduled report generation (PDF export) due:2026-03-20 <!-- task:cd-7 -->\n- [ ] Beta launch with 3 pilot customers due:2026-04-01 <!-- task:cd-8 -->\n\n### Tech Stack\n\n- **Frontend:** React 19, Recharts, TanStack Table\n- **Backend:** Node.js, Fastify, PostgreSQL\n- **Auth:** Azure AD B2C with custom policies\n- **Hosting:** Vercel (frontend) + Azure Container Apps (API)\n\n### Customer Requirements\n\n1. **Real-time data** — refreshed every 5 minutes minimum\n2. **Custom date ranges** — flexible filtering\n3. **Export to Excel** — critical for finance teams\n4. **White-labeling** — customers want their own branding\n5. **Mobile responsive** — executives check dashboards on phones
