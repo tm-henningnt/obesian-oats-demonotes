@@ -5,12 +5,12 @@ created: "2026-02-22T11:25:58.824Z"
 updated: "2026-02-22T11:26:02.066Z"
 type: meeting
 ---
-## 1-on-1 with Erik Hansen
+# 1-on-1 with Erik Hansen
 
 **Date:** 2026-02-19
 **Location:** Coffee corner, 3rd floor
 
-### How are things going?
+## Discussion
 
 Erik is generally happy. Enjoying the migration work — feels technically challenging in a good way. Mentioned he appreciates the autonomy to make architectural decisions.
 
@@ -29,14 +29,13 @@ Erik is interested in the architect track. We discussed:
 
 He is training for the Bergen City Marathon in April! Running 4-5 times per week. We talked about maybe forming a team running group — Jonas and I are also interested.
 
-### Action Items
+## Action Items
 
 - [ ] Alex: Restructure sprint planning for dedicated focus tracks due:2026-02-25 @Alex <!-- task:1on1-1 -->
 - [ ] Erik: Write an ADR for the database connection pooling decision @Erik <!-- task:1on1-2 -->
 - [ ] Alex: Schedule Erik for March tech talk slot <!-- task:1on1-3 -->
 
-### Notes for Next Time
+## Decisions
 
-- Follow up on architect track progress
-- Check if focus-track sprint format is working
-- Ask about Bergen marathon training
+1. ✅ Restructure sprints for dedicated focus tracks per person
+2. ✅ Erik to pursue architect track
