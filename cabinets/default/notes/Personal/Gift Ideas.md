@@ -5,28 +5,27 @@ created: "2026-02-22T11:14:53.248Z"
 updated: "2026-02-22T11:14:55.347Z"
 type: todo
 ---
-## Gift Ideas
+# Gift Ideas
 
-### Marte — Birthday (March 15) 🎂
+<!-- oats:todo-settings {"listLayout":"area"} -->
 
-- [ ] Ceramic workshop class at Keramikkverkstedet <!-- task:gift-1 -->
-- [ ] "Norwegian Wood" cookbook by Trina Hahnemann <!-- task:gift-2 -->
-- [ ] Cashmere scarf from Oleana <!-- task:gift-3 -->
-- [ ] Spa day at The Well <!-- task:gift-4 -->
+## High Priority
 
-### Mom — Birthday (April 22)
+- [ ] Ceramic workshop class at Keramikkverkstedet [cat:Marte] <!-- task:gift-1 -->
+- [ ] "Norwegian Wood" cookbook by Trina Hahnemann [cat:Marte] <!-- task:gift-2 -->
+- [ ] Cashmere scarf from Oleana [cat:Marte] <!-- task:gift-3 -->
+- [ ] Spa day at The Well [cat:Marte] <!-- task:gift-4 -->
 
-- [ ] Garden tools set (hers are ancient) <!-- task:gift-5 -->
-- [ ] Photo book of last year's family cabin trip <!-- task:gift-6 -->
-- [ ] Subscription to Norsk Ukeblad <!-- task:gift-7 -->
+## Normal
 
-### Erik — Thank You Gift
+- [ ] Garden tools set (hers are ancient) [cat:Mom] <!-- task:gift-5 -->
+- [ ] Photo book of last year's family cabin trip [cat:Mom] <!-- task:gift-6 -->
+- [ ] Subscription to Norsk Ukeblad [cat:Mom] <!-- task:gift-7 -->
+- [ ] Fancy coffee beans from Tim Wendelboe [cat:Erik] <!-- task:gift-8 -->
+- [ ] Board game (he mentioned wanting Wingspan) [cat:Erik] <!-- task:gift-9 -->
 
-- [ ] Fancy coffee beans from Tim Wendelboe <!-- task:gift-8 -->
-- [ ] Board game (he mentioned wanting Wingspan) <!-- task:gift-9 -->
+## Low Priority
 
-### General Wish List (For Myself)
-
-- [ ] Garmin Forerunner 265 (running watch upgrade) <!-- task:gift-10 -->
-- [ ] AirPods Pro 3 <!-- task:gift-11 -->
-- [ ] Standing desk converter for home office <!-- task:gift-12 -->
+- [ ] Garmin Forerunner 265 (running watch upgrade) [cat:Wish List] <!-- task:gift-10 -->
+- [ ] AirPods Pro 3 [cat:Wish List] <!-- task:gift-11 -->
+- [ ] Standing desk converter for home office [cat:Wish List] <!-- task:gift-12 -->
