@@ -5,12 +5,12 @@ created: "2026-02-22T11:12:30.884Z"
 updated: "2026-02-22T11:14:17.350Z"
 type: meeting
 ---
-## Weekly Team Sync
+# Weekly Team Sync
 
 **Date:** 2026-02-17
 **Attendees:** Alex, Erik, Maja, Sofie, Jonas
 
-### Round Table
+## Round Table
 
 **Alex:** Working on Grafana dashboards for AKS monitoring. Meeting with Karin Thursday about Q2 roadmap.
 
@@ -22,7 +22,7 @@ type: meeting
 
 **Jonas:** Fixed 4 of 7 flaky tests. CI pipeline for AKS is green — deployed to staging yesterday.
 
-### Decisions
+## Decisions
 
 1. ✅ Chart annotations: Add to backlog for v1.1
 2. ✅ Alex will review DB schema by EOD Tuesday
