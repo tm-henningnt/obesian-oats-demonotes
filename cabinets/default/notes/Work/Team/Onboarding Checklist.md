@@ -2,7 +2,7 @@
 id: "e89cbcc8-a034-436b-bbfe-a68a260987d5"
 title: New Team Member Onboarding
 created: "2026-02-22T11:13:34.856Z"
-updated: "2026-02-22T11:13:36.380Z"
+updated: "2026-02-22T11:14:20.992Z"
 type: todo
 ---
 ## Onboarding Checklist for New Team Members
