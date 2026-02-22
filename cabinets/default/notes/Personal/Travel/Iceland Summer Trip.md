@@ -2,7 +2,7 @@
 id: "6f027919-e1e0-4c0e-aa0a-2a0764a5a408"
 title: Iceland Summer Trip 2026
 created: "2026-02-22T11:14:43.288Z"
-updated: "2026-02-22T11:14:45.123Z"
+updated: "2026-02-22T17:50:42.404Z"
 ---
 ## Iceland Ring Road — July 2026 🇮🇸
 
@@ -19,18 +19,18 @@ updated: "2026-02-22T11:14:45.123Z"
 
 ### Itinerary
 
-| Day | Area | Highlights |
-|-----|------|------------|
-| 1 | Reykjavík | Arrive, explore city, Hallgrímskirkja |
-| 2 | Golden Circle | Þingvellir, Geysir, Gullfoss |
-| 3 | South Coast | Seljalandsfoss, Skógafoss, Reynisfjara |
-| 4 | Vík → Höfn | Glacier lagoon at Jökulsárlón! |
-| 5 | East Fjords | Scenic driving, fishing villages |
-| 6 | Egilsstaðir → Mývatn | Dettifoss waterfall |
-| 7 | Mývatn area | Lake Mývatn, Grjótagjá cave, Hverir |
-| 8 | Akureyri | Whale watching, town exploration |
-| 9 | Westfjords day | Snæfellsnes peninsula |
-| 10 | Reykjavík | Blue Lagoon, souvenir shopping, fly home |
+| Day | Area                 | Highlights                               |
+| --- | -------------------- | ---------------------------------------- |
+| 1   | Reykjavík            | Arrive, explore city, Hallgrímskirkja    |
+| 2   | Golden Circle        | Þingvellir, Geysir, Gullfoss             |
+| 3   | South Coast          | Seljalandsfoss, Skógafoss, Reynisfjara   |
+| 4   | Vík → Höfn           | Glacier lagoon at Jökulsárlón!           |
+| 5   | East Fjords          | Scenic driving, fishing villages         |
+| 6   | Egilsstaðir → Mývatn | Dettifoss waterfall                      |
+| 7   | Mývatn area          | Lake Mývatn, Grjótagjá cave, Hverir      |
+| 8   | Akureyri             | Whale watching, town exploration         |
+| 9   | Westfjords day       | Snæfellsnes peninsula                    |
+| 10  | Reykjavík            | Blue Lagoon, souvenir shopping, fly home |
 
 ### Packing List
 
