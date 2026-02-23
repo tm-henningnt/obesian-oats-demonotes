@@ -2,7 +2,7 @@
 id: "2d2e3a64-6899-4d5d-bbfc-7c02f163c39f"
 title: Dashboard Requirements
 created: "2026-02-22T11:25:44.873Z"
-updated: "2026-02-23T13:50:00.000Z"
+updated: "2026-02-23T14:19:25.279Z"
 ---
 ## Customer Dashboard — Functional Requirements
 
@@ -34,33 +34,37 @@ sequenceDiagram
 
 ### User Roles
 
-| Role | Permissions |
-|------|------------|
-| Admin | Full access, user management, white-label config |
+| Role    | Permissions                                      |
+| ------- | ------------------------------------------------ |
+| Admin   | Full access, user management, white-label config |
 | Analyst | View all dashboards, create custom views, export |
-| Viewer | View assigned dashboards only, no export |
+| Viewer  | View assigned dashboards only, no export         |
 
 ### Core Features (MVP)
 
 #### 1. Dashboard Layout
+
 - Drag-and-drop widget grid (12-column responsive)
 - Save and load custom layouts per user
 - At least 5 widget types: bar chart, line chart, pie chart, table, KPI card
 - Auto-refresh with configurable interval (1min, 5min, 15min)
 
 #### 2. Data Filtering
+
 - Global date range picker (presets + custom range)
 - Per-widget filters (dimension dropdowns)
 - Filter presets saved per user
 - Cross-widget filtering (click a bar to filter other widgets)
 
 #### 3. Authentication
+
 - Customer SSO via SAML 2.0 or OIDC
 - Azure AD B2C as identity broker
 - Session timeout: 30 minutes idle
 - MFA support for admin users
 
 #### 4. Export
+
 - Widget-level export (PNG, CSV)
 - Full dashboard export as PDF
 - Scheduled email reports (daily, weekly, monthly)
