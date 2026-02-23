@@ -51,6 +51,6 @@ graph TD
 
 ## Action Items
 
-- [x] Erik: Implement network policies <!-- task:ar-1 -->
-- [x] Jonas: Set up Key Vault CSI driver <!-- task:ar-3 -->
-- [ ] Alex: Configure Grafana dashboards due:2026-02-20 @Alex <!-- task:ar-4 -->
+- [x] Erik: Implement network policies <!-- task:x4xkbq8w -->
+- [x] Jonas: Set up Key Vault CSI driver <!-- task:pw9jspbz -->
+- [ ] Alex: Configure Grafana dashboards due:2026-02-20 @Alex <!-- task:9l6npx6x -->
