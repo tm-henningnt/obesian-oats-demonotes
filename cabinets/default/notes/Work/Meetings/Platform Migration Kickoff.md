@@ -27,9 +27,9 @@ Maja raised concerns about the ETL pipeline — it currently uses local file sys
 
 ## Action Items
 
-- [x] Alex: Set up AKS cluster in dev subscription <!-- task:mk-2 -->
-- [x] Jonas: Draft CI/CD pipeline design document <!-- task:mk-3 -->
-- [x] Alex: Schedule weekly migration sync <!-- task:mk-5 -->
+- [x] Alex: Set up AKS cluster in dev subscription <!-- task:kqoe2zj6 -->
+- [x] Jonas: Draft CI/CD pipeline design document <!-- task:27e3yujb -->
+- [x] Alex: Schedule weekly migration sync <!-- task:9j6wiw7j -->
 
 ## Decisions
 
