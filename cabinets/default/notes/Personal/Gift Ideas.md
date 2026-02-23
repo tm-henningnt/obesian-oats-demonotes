@@ -2,7 +2,7 @@
 id: "de3c2bf5-3619-42a3-96d7-65ec7e2193f6"
 title: Gift Ideas
 created: "2026-02-22T11:14:53.248Z"
-updated: "2026-02-22T18:23:32.535Z"
+updated: "2026-02-23T16:13:35.544Z"
 type: todo
 ---
 # Gift Ideas
