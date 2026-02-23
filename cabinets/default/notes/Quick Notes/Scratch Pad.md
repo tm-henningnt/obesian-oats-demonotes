@@ -2,7 +2,7 @@
 id: "36b073d5-fa55-40e7-bc16-964ba5f3cf21"
 title: Scratch Pad
 created: "2026-02-22T11:15:23.384Z"
-updated: "2026-02-22T11:15:25.429Z"
+updated: "2026-02-23T16:30:58.960Z"
 ---
 ## Scratch Pad
 
@@ -41,14 +41,14 @@ ORDER BY day DESC;
 
 ### Conference talk CFP notes
 
-Title idea: "From VMs to Kubernetes: A Practical Migration Story"
-Conference: NDC Oslo (June 2026)
-CFP deadline: March 15
-Format: 45-minute talk
+Title idea: "From VMs to Kubernetes: A Practical Migration Story"  
+Conference: NDC Oslo (June 2026)  
+CFP deadline: March 15  
+Format: 45-minute talk  
 Abstract: TODO — write this weekend
 
 ### Random links to check later
 
-- https://roadmap.sh/devops — DevOps roadmap (share with Jonas?)
-- https://learnk8s.io — Good K8s learning resources
+- [https://roadmap.sh/devops](https://roadmap.sh/devops) — DevOps roadmap (share with Jonas?)
+- [https://learnk8s.io](https://learnk8s.io) — Good K8s learning resources
 - Checked out Warp terminal — interesting AI features but sticking with iTerm2 for now
