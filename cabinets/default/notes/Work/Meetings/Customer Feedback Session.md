@@ -39,10 +39,10 @@ Henrik was impressed with the overall look and feel. Called it "much better than
 
 ## Action Items
 
-- [ ] Sofie: Add comparison period toggle to chart widgets due:2026-03-05 @Sofie <!-- task:cf-1 -->
-- [ ] Erik: Implement column sort/search in table widget due:2026-03-01 @Erik <!-- task:cf-2 -->
-- [ ] Alex: Evaluate email alerting feasibility for v1.1 due:2026-02-25 @Alex <!-- task:cf-3 -->
-- [ ] Sofie: Mockup embeddable widget concept due:2026-03-10 @Sofie <!-- task:cf-4 -->
+- [ ] Sofie: Add comparison period toggle to chart widgets due:2026-03-05 @Sofie <!-- task:n7bsh55p -->
+- [ ] Erik: Implement column sort/search in table widget due:2026-03-01 @Erik <!-- task:1xqm2je6 -->
+- [ ] Alex: Evaluate email alerting feasibility for v1.1 due:2026-02-25 @Alex <!-- task:fs8ph3u9 -->
+- [ ] Sofie: Mockup embeddable widget concept due:2026-03-10 @Sofie <!-- task:m9zdkd61 -->
 
 ## Decisions
 
