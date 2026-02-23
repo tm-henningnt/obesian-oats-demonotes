@@ -2,12 +2,12 @@
 id: "e89cbcc8-a034-436b-bbfe-a68a260987d5"
 title: New Team Member Onboarding
 created: "2026-02-22T11:13:34.856Z"
-updated: "2026-02-23T16:17:57.609Z"
+updated: "2026-02-23T16:19:33.499Z"
 type: todo
 ---
 # Onboarding Checklist for New Team Members
 
-<!-- oats:todo-settings {"viewMode":"board","listLayout":"area","boardGrouping":"area"} -->
+<!-- oats:todo-settings {"viewMode":"list","listLayout":"area","boardGrouping":"area"} -->
 
 ## High Priority
 - [x] Laptop configured with standard dev tools [cat:Day 1 — Access & Setup] <!-- task:c7ddhixy -->
