@@ -32,6 +32,6 @@ type: meeting
 
 ## Action Items
 
-- [ ] Alex: Review database schema by EOD Tuesday @Alex <!-- task:ws-1 -->
-- [ ] Sofie: Demo chart library Wednesday @Sofie <!-- task:ws-2 -->
-- [ ] Maja: Investigate CSV import performance issue @Maja <!-- task:ws-3 -->
+- [ ] Alex: Review database schema by EOD Tuesday @Alex <!-- task:18trxaf3 -->
+- [ ] Sofie: Demo chart library Wednesday @Sofie <!-- task:0pzhlslf -->
+- [ ] Maja: Investigate CSV import performance issue @Maja <!-- task:zs5hxzp3 -->
