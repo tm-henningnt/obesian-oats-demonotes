@@ -43,18 +43,18 @@ gantt
 
 ### Infrastructure Setup
 
-- [x] Infrastructure planning and AKS cluster provisioning <!-- task:pm-1 -->
-- [x] Container images for all services <!-- task:pm-2 -->
-- [x] CI/CD pipeline with GitHub Actions <!-- task:pm-3 -->
+- [x] Infrastructure planning and AKS cluster provisioning <!-- task:3acsduep -->
+- [x] Container images for all services <!-- task:j98zsd8j -->
+- [x] CI/CD pipeline with GitHub Actions <!-- task:6amx6e2a -->
 
 ### Migration Batches (2026-02-15 → 2026-05-01)
 
-- [ ] Migrate staging environment (3 services) @Erik <!-- task:pm-4 -->
-- [ ] Load testing on staging due:2026-03-01 <!-- task:pm-5 -->
-- [ ] Migrate production - batch 1 (auth, gateway, users) due:2026-03-15 @Alex <!-- task:pm-6 -->
-- [ ] Migrate production - batch 2 (analytics, reporting, ETL) due:2026-04-01 @Maja <!-- task:pm-7 -->
-- [ ] Migrate production - batch 3 (remaining services) due:2026-04-15 <!-- task:pm-8 -->
-- [ ] Decommission old VMs due:2026-05-01 <!-- task:pm-9 -->
+- [ ] Migrate staging environment (3 services) @Erik <!-- task:030rzq09 -->
+- [ ] Load testing on staging due:2026-03-01 <!-- task:qcw0ptyt -->
+- [ ] Migrate production - batch 1 (auth, gateway, users) due:2026-03-15 @Alex <!-- task:ka4vol1n -->
+- [ ] Migrate production - batch 2 (analytics, reporting, ETL) due:2026-04-01 @Maja <!-- task:46tjl9rp -->
+- [ ] Migrate production - batch 3 (remaining services) due:2026-04-15 <!-- task:zlfhvcj1 -->
+- [ ] Decommission old VMs due:2026-05-01 <!-- task:l5lw95rm -->
 
 ## Resources
 
