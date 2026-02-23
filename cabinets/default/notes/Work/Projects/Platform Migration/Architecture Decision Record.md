@@ -2,8 +2,37 @@
 id: "82e75c3d-3ebe-4fe3-8527-8e78efd30c92"
 title: Architecture Decision Record
 created: "2026-02-22T11:25:10.542Z"
-updated: "2026-02-22T11:25:38.567Z"
+updated: "2026-02-23T13:50:00.000Z"
 ---
+## Infrastructure Overview
+
+```mermaid
+flowchart TB
+    LB["Azure Load Balancer"] --> NGINX["NGINX Ingress"]
+    NGINX --> GW["API Gateway"]
+    GW --> Auth["Auth Service"]
+    GW --> Users["Users Service"]
+    GW --> Analytics["Analytics Service"]
+    GW --> Reporting["Reporting Service"]
+    GW --> ETL["ETL Pipeline"]
+    Users --> PG[("PostgreSQL\n(Managed)")]
+    Analytics --> PG
+    Reporting --> PG
+    ETL --> PG
+    Auth --> KV["Azure Key Vault"]
+    subgraph AKS Cluster
+        NGINX
+        GW
+        Auth
+        Users
+        Analytics
+        Reporting
+        ETL
+    end
+    Prom["Prometheus"] -.-> AKS Cluster
+    Grafana["Grafana"] -.-> Prom
+```
+
 ## ADR-001: Container Orchestration Platform
 
 **Status:** Accepted
