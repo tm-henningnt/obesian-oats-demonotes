@@ -2,13 +2,16 @@
 id: "5f56a4f5-974c-4b61-aed2-2885066333ba"
 title: My Tasks
 created: "2026-02-23T16:14:25.263Z"
-updated: "2026-02-23T18:40:35.904Z"
+updated: "2026-02-23T18:42:03.349Z"
 type: todo
 ---
 # My Tasks
 
+## High Priority
 - [ ] Complete Grafana dashboards for AKS @Alex @2026-02-24 [cat:This Week] <!-- task:frhrpkje -->
 - [ ] Write migration runbook draft @Alex @2026-02-24 [cat:This Week] <!-- task:m8a1rnoo -->
+
+## Normal
 - [ ] Review Erik's data API PR @Alex @2026-02-24 [cat:This Week] <!-- task:b71lp4y4 -->
 - [ ] Q2 roadmap presentation final version @2026-02-28 [cat:This Month] <!-- task:wasfnge8 -->
 - [ ] NDC Oslo CFP submission @2026-03-15 [cat:This Month] <!-- task:sjshee5e -->
