@@ -2,9 +2,35 @@
 id: "2d2e3a64-6899-4d5d-bbfc-7c02f163c39f"
 title: Dashboard Requirements
 created: "2026-02-22T11:25:44.873Z"
-updated: "2026-02-22T11:25:48.006Z"
+updated: "2026-02-23T13:50:00.000Z"
 ---
 ## Customer Dashboard — Functional Requirements
+
+### API Request Flow
+
+```mermaid
+sequenceDiagram
+    actor User
+    participant UI as Dashboard UI
+    participant API as Fastify API
+    participant Auth as Azure AD B2C
+    participant DB as PostgreSQL
+
+    User->>UI: Open dashboard
+    UI->>Auth: SSO / OIDC login
+    Auth-->>UI: Access token
+    UI->>API: GET /dashboards (token)
+    API->>API: Validate token + tenant
+    API->>DB: Query dashboards (row-level security)
+    DB-->>API: Dashboard configs
+    API-->>UI: Dashboard list
+    User->>UI: Select dashboard
+    UI->>API: POST /widgets/:id/data
+    API->>DB: Query with tenant filter
+    DB-->>API: Widget data
+    API-->>UI: Chart data
+    UI->>User: Render visualizations
+```
 
 ### User Roles
 
