@@ -20,7 +20,7 @@ flowchart TB
     Reporting --> PG
     ETL --> PG
     Auth --> KV["Azure Key Vault"]
-    subgraph AKS Cluster
+    subgraph AKS["AKS Cluster"]
         NGINX
         GW
         Auth
@@ -29,7 +29,7 @@ flowchart TB
         Reporting
         ETL
     end
-    Prom["Prometheus"] -.-> AKS Cluster
+    Prom["Prometheus"] -.-> AKS
     Grafana["Grafana"] -.-> Prom
 ```
 
