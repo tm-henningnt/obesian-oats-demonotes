@@ -2,12 +2,12 @@
 id: "b71b5dfc-4998-445d-93a6-25d4af4d75a3"
 title: API Migration Checklist
 created: "2026-02-22T11:25:39.864Z"
-updated: "2026-02-22T22:54:03.414Z"
+updated: "2026-02-23T18:36:40.209Z"
 type: todo
 ---
 # API Migration Checklist
 
-<!-- oats:todo-settings {"viewMode":"board","listLayout":"area","boardGrouping":"priority"} -->
+<!-- oats:todo-settings {"viewMode":"list","listLayout":"area","boardGrouping":"priority"} -->
 
 ## High Priority
 - [x] Auth Service — containerized, health checks added [cat:Batch 1 — Auth & Gateway] <!-- task:8tatrug4 -->
