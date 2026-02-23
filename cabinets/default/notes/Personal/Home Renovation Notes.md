@@ -2,11 +2,31 @@
 id: "036c9ccb-8246-42be-9834-77c72c77112b"
 title: Home Renovation Notes
 created: "2026-02-22T11:14:56.733Z"
-updated: "2026-02-22T11:14:58.743Z"
+updated: "2026-02-23T13:50:00.000Z"
 ---
 ## Apartment Renovation Ideas
 
 Our apartment on Frogner is great but the kitchen and bathroom need updating. Collecting ideas and quotes here.
+
+### Renovation Timeline
+
+```mermaid
+timeline
+    title Frogner Apartment Renovation Plan
+    section Spring 2026
+        March : Get board approval for kitchen
+              : Finalize contractor quotes
+        April : Order countertops and appliances
+              : Begin kitchen demolition
+        May   : Kitchen installation
+              : LED lighting and backsplash
+        June  : Kitchen complete and punch list
+    section Autumn 2026
+        September : Bathroom planning and permits
+        October   : Heated floors and plumbing
+        November  : Vanity, fixtures, and tiling
+        December  : Final inspection
+```
 
 ### Kitchen
 
