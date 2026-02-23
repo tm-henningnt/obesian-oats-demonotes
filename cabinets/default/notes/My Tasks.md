@@ -19,26 +19,26 @@ type: todo
 - [ ] Complete Grafana dashboards for AKS @Alex @2026-02-24 [cat:This Week] <!-- task:frhrpkje -->
 - [ ] Write migration runbook draft @Alex @2026-02-24 [cat:This Week] <!-- task:m8a1rnoo -->
 - [ ] Review Erik's data API PR @Alex @2026-02-24 [cat:This Week] <!-- task:b71lp4y4 -->
-- [ ] Complete Grafana dashboards for AKS @Alex @2026-02-24 [cat:This Week] <!-- task:frhrpkje -->
-- [ ] Write migration runbook draft @Alex @2026-02-24 [cat:This Week] <!-- task:m8a1rnoo -->
-- [ ] Review Erik's data API PR @Alex @2026-02-24 [cat:This Week] <!-- task:b71lp4y4 -->
+- [ ] Complete Grafana dashboards for AKS @Alex @2026-02-24 [cat:This Week] <!-- task:51fnlmw2 -->
+- [ ] Write migration runbook draft @Alex @2026-02-24 [cat:This Week] <!-- task:y8woffqj -->
+- [ ] Review Erik's data API PR @Alex @2026-02-24 [cat:This Week] <!-- task:coyxyku9 -->
 - [ ] Q2 roadmap presentation final version @2026-02-28 [cat:This Month] <!-- task:wasfnge8 -->
 - [ ] NDC Oslo CFP submission @2026-03-15 [cat:This Month] <!-- task:sjshee5e -->
 - [ ] Plan Marte's birthday surprise @2026-03-10 [cat:This Month] <!-- task:y0wnnw07 -->
 - [ ] Order new running shoes [cat:This Month] <!-- task:gi4jj00j -->
 - [ ] Book whale watching for Iceland [cat:This Month] <!-- task:37pzt8wc -->
-- [ ] Q2 roadmap presentation final version @2026-02-28 [cat:This Month] <!-- task:wasfnge8 -->
-- [ ] NDC Oslo CFP submission @2026-03-15 [cat:This Month] <!-- task:sjshee5e -->
-- [ ] Plan Marte's birthday surprise @2026-03-10 [cat:This Month] <!-- task:y0wnnw07 -->
-- [ ] Order new running shoes [cat:This Month] <!-- task:gi4jj00j -->
-- [ ] Book whale watching for Iceland [cat:This Month] <!-- task:37pzt8wc -->
+- [ ] Q2 roadmap presentation final version @2026-02-28 [cat:This Month] <!-- task:sam7ahzk -->
+- [ ] NDC Oslo CFP submission @2026-03-15 [cat:This Month] <!-- task:4tvl3hzs -->
+- [ ] Plan Marte's birthday surprise @2026-03-10 [cat:This Month] <!-- task:gnhw1kwh -->
+- [ ] Order new running shoes [cat:This Month] <!-- task:s5df174e -->
+- [ ] Book whale watching for Iceland [cat:This Month] <!-- task:n0umqu29 -->
 - [ ] Write blog post about AKS migration [cat:Someday] <!-- task:fc1psd5p -->
 - [ ] Try Swift playground for habit tracker idea [cat:Someday] <!-- task:ybve45v9 -->
 - [ ] Set up home office standing desk [cat:Someday] <!-- task:03q40n1p -->
 - [ ] Organize photo backup solution [cat:Someday] <!-- task:uoobi65u -->
 - [ ] Learn more about Tauri for desktop apps [cat:Someday] <!-- task:lc3xqler -->
-- [ ] Write blog post about AKS migration [cat:Someday] <!-- task:fc1psd5p -->
-- [ ] Try Swift playground for habit tracker idea [cat:Someday] <!-- task:ybve45v9 -->
-- [ ] Set up home office standing desk [cat:Someday] <!-- task:03q40n1p -->
-- [ ] Organize photo backup solution [cat:Someday] <!-- task:uoobi65u -->
-- [ ] Learn more about Tauri for desktop apps [cat:Someday] <!-- task:lc3xqler -->
+- [ ] Write blog post about AKS migration [cat:Someday] <!-- task:9jlavrkm -->
+- [ ] Try Swift playground for habit tracker idea [cat:Someday] <!-- task:nh7tjabj -->
+- [ ] Set up home office standing desk [cat:Someday] <!-- task:euzj5iuh -->
+- [ ] Organize photo backup solution [cat:Someday] <!-- task:bx8tqhfk -->
+- [ ] Learn more about Tauri for desktop apps [cat:Someday] <!-- task:rk38lcgs -->
