@@ -37,9 +37,9 @@ He is training for the Bergen City Marathon in April! Running 4-5 times per week
 
 ## Action Items
 
-- [ ] Alex: Restructure sprint planning for dedicated focus tracks due:2026-02-25 @Alex <!-- task:1on1-1 -->
-- [ ] Erik: Write an ADR for the database connection pooling decision @Erik <!-- task:1on1-2 -->
-- [ ] Alex: Schedule Erik for March tech talk slot <!-- task:1on1-3 -->
+- [ ] Alex: Restructure sprint planning for dedicated focus tracks due:2026-02-25 @Alex <!-- task:4y90kadl -->
+- [ ] Erik: Write an ADR for the database connection pooling decision @Erik <!-- task:fd3tyz3p -->
+- [ ] Alex: Schedule Erik for March tech talk slot <!-- task:s81dhii2 -->
 
 ## Decisions
 
