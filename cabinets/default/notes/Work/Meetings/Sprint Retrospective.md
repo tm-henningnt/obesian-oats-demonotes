@@ -38,6 +38,6 @@ type: meeting
 
 ## Action Items
 
-- [ ] Alex: Create review rotation schedule due:2026-02-20 @Alex <!-- task:retro-1 -->
-- [ ] Jonas: Fix flaky Selenium tests due:2026-02-21 @Jonas <!-- task:retro-2 -->
-- [ ] Everyone: 30 min/week for documentation <!-- task:retro-3 -->
+- [ ] Alex: Create review rotation schedule due:2026-02-20 @Alex <!-- task:2wvp07a4 -->
+- [ ] Jonas: Fix flaky Selenium tests due:2026-02-21 @Jonas <!-- task:ey6f46mb -->
+- [ ] Everyone: 30 min/week for documentation <!-- task:gi378huq -->
