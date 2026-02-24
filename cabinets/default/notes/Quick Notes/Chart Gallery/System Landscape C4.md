@@ -1,7 +1,27 @@
 ---
-id: "b5eab836-5da0-47b1-a6ad-625fcfb8d9d8"
-title: System Landscape C4
-created: "2026-02-24T09:06:50.482Z"
-updated: "2026-02-24T09:06:50.482Z"
 type: graph
+title: "System Landscape C4"
 ---
+# System Landscape C4
+
+## Mermaid
+```mermaid
+%% preset: c4
+C4Context
+  title Obesian Oats System Context
+
+  Person(user, "Note Taker", "Creates and organizes markdown notes")
+  Person(dev, "Developer", "Uses CLI/MCP for automation")
+
+  System(oats, "Obesian Oats", "Cross-platform notes workspace")
+
+  System_Ext(github, "GitHub", "Repository storage backend")
+  System_Ext(openai, "OpenAI API", "AI features provider")
+  System_Ext(vercel, "Vercel", "Web hosting platform")
+
+  Rel(user, oats, "Uses", "Browser / Desktop app")
+  Rel(dev, oats, "Automates", "CLI / MCP")
+  Rel(oats, github, "Reads/writes notes", "REST API")
+  Rel(oats, openai, "AI chat, writing tools", "API")
+  Rel(oats, vercel, "Deployed on", "Static hosting")
+```
