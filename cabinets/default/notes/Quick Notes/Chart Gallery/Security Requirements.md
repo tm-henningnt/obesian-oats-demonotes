@@ -49,6 +49,6 @@ requirementDiagram
 
     github_oauth - satisfies -> auth_req
     crypto_module - satisfies -> encrypt_req
-    token_req - deriveReqt -> auth_req
+    token_req - derives -> auth_req
     byok_req - refines -> encrypt_req
 ```
