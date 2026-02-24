@@ -1,7 +1,19 @@
 ---
-id: "f3ff1650-22b3-49fb-9b38-009623cd9aad"
-title: Team Time Allocation Pie
-created: "2026-02-24T09:06:10.929Z"
-updated: "2026-02-24T09:06:10.929Z"
 type: graph
+title: "Team Time Allocation Pie"
 ---
+# Team Time Allocation Pie
+
+## Mermaid
+```mermaid
+%% preset: pie
+pie showData
+  title Team Time Allocation - Q1 2026
+  "Feature Development" : 35
+  "Bug Fixes" : 15
+  "Code Review" : 10
+  "Testing" : 15
+  "Documentation" : 5
+  "Meetings" : 10
+  "Learning & Research" : 10
+```
