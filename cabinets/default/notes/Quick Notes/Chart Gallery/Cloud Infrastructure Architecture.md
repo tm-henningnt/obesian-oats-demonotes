@@ -8,21 +8,21 @@ title: "Cloud Infrastructure Architecture"
 ```mermaid
 %% preset: architecture
 architecture-beta
-  group cloud["Cloud Platform"]
+  group cloud(cloud)[Cloud Platform]
 
-  service vercel(cloud)["Vercel CDN"] in cloud
-  service edge(server)["Edge Functions"] in cloud
-  service static(disk)["Static Assets"] in cloud
+  service vercel(cloud)[Vercel CDN] in cloud
+  service edge(server)[Edge Functions] in cloud
+  service static(disk)[Static Assets] in cloud
 
-  group external["External Services"]
+  group external(server)[External Services]
 
-  service github(server)["GitHub API"] in external
-  service openai(server)["OpenAI API"] in external
+  service github(server)[GitHub API] in external
+  service openai(server)[OpenAI API] in external
 
-  group client["Client"]
+  group client(internet)[Client]
 
-  service browser(internet)["Browser"] in client
-  service desktop(internet)["Desktop App"] in client
+  service browser(internet)[Browser] in client
+  service desktop(internet)[Desktop App] in client
 
   browser:R --> L:vercel
   desktop:R --> L:vercel
