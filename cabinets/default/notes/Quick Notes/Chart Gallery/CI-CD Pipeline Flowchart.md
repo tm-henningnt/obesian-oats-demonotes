@@ -1,7 +1,26 @@
 ---
-id: "265fc5cf-7057-4350-9ef2-26e86d6ad16f"
-title: CI/CD Pipeline Flowchart
-created: "2026-02-24T09:04:38.767Z"
-updated: "2026-02-24T09:04:38.767Z"
 type: graph
+title: "CI/CD Pipeline Flowchart"
 ---
+# CI/CD Pipeline Flowchart
+
+## Mode
+- flowchart
+
+## Mermaid
+```mermaid
+%% mode: flowchart
+flowchart LR
+  Dev["Developer Push"] --> Lint["Lint & Format"]
+  Lint --> Test["Unit Tests"]
+  Test --> Build["Build"]
+  Build --> Docker["Docker Image"]
+  Docker --> Scan["Security Scan"]
+  Scan --> Stage["Deploy Staging"]
+  Stage --> Smoke["Smoke Tests"]
+  Smoke --> Approve["Manual Approval"]
+  Approve --> Prod["Deploy Production"]
+  Prod --> Monitor["Health Check"]
+  Monitor --> Alert["Alert on Failure"]
+  Alert -->|rollback| Stage
+```
