@@ -1,7 +1,25 @@
 ---
-id: "b0ae323a-8f9b-44a8-918f-e0f73b9a834b"
-title: Deployment Lifecycle State
-created: "2026-02-24T09:05:30.730Z"
-updated: "2026-02-24T09:05:30.730Z"
 type: graph
+title: "Deployment Lifecycle State"
 ---
+# Deployment Lifecycle State
+
+## Mermaid
+```mermaid
+%% preset: state
+stateDiagram-v2
+  [*] --> Queued
+  Queued --> Building: CI triggered
+  Building --> Testing: Build passed
+  Building --> Failed: Build error
+  Testing --> Staging: Tests passed
+  Testing --> Failed: Tests failed
+  Staging --> Review: Deploy to staging
+  Review --> Production: Approved
+  Review --> Staging: Changes requested
+  Production --> Monitoring: Live
+  Monitoring --> Rollback: Alert triggered
+  Rollback --> Staging: Reverted
+  Failed --> Queued: Fix pushed
+  Monitoring --> [*]: Stable
+```
