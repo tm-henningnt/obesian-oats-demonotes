@@ -1,7 +1,19 @@
 ---
-id: "c92a5f7e-1e49-4ee5-9ca0-6e16efed104e"
-title: API Request Packet
-created: "2026-02-24T09:07:58.436Z"
-updated: "2026-02-24T09:07:58.436Z"
 type: graph
+title: "API Request Packet"
 ---
+# API Request Packet
+
+## Mermaid
+```mermaid
+%% preset: packet
+packet-beta
+  0-3: "Version (4)"
+  4-7: "Type (4)"
+  8-15: "Length (8)"
+  16-31: "Request ID (16)"
+  32-39: "Auth Token Prefix (8)"
+  40-55: "Payload Offset (16)"
+  56-63: "Checksum (8)"
+  64-95: "Payload Data (32)"
+```
