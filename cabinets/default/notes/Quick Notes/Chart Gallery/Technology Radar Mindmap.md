@@ -1,7 +1,34 @@
 ---
-id: "d3e0e12a-ab8f-4fde-bd3d-c94f96ef8225"
-title: Technology Radar Mindmap
-created: "2026-02-24T09:04:58.541Z"
-updated: "2026-02-24T09:04:58.541Z"
 type: graph
+title: "Technology Radar Mindmap"
 ---
+# Technology Radar Mindmap
+
+## Mode
+- mindmap
+
+## Mermaid
+```mermaid
+%% mode: mindmap
+mindmap
+  root((Technology Radar))
+    Adopt
+      React 19
+      TypeScript
+      Vite
+      Zustand
+    Trial
+      WebAwesome
+      TipTap
+      Dexie.js
+      Mermaid
+    Assess
+      Tauri
+      OPFS
+      Web Crypto API
+    Hold
+      jQuery
+      Webpack
+      Redux
+      REST-only APIs
+```
