@@ -119,21 +119,21 @@ Purpose-built for cloud and infrastructure diagrams with service icons and direc
 ```mermaid
 %% preset: architecture
 architecture-beta
-  group cloud["Cloud Platform"]
+  group cloud(cloud)[Cloud Platform]
 
-  service vercel(cloud)["Vercel CDN"] in cloud
-  service edge(server)["Edge Functions"] in cloud
-  service static(disk)["Static Assets"] in cloud
+  service vercel(cloud)[Vercel CDN] in cloud
+  service edge(server)[Edge Functions] in cloud
+  service static(disk)[Static Assets] in cloud
 
-  group external["External Services"]
+  group external(server)[External Services]
 
-  service github(server)["GitHub API"] in external
-  service openai(server)["OpenAI API"] in external
+  service github(server)[GitHub API] in external
+  service openai(server)[OpenAI API] in external
 
-  group client["Client"]
+  group client(internet)[Client]
 
-  service browser(internet)["Browser"] in client
-  service desktop(internet)["Desktop App"] in client
+  service browser(internet)[Browser] in client
+  service desktop(internet)[Desktop App] in client
 
   browser:R --> L:vercel
   desktop:R --> L:vercel
@@ -341,48 +341,48 @@ Traces requirements to implementation elements, showing satisfies/derives/refine
 %% preset: requirement
 requirementDiagram
 
-  requirement auth_req {
-    id: SEC-001
+    requirement auth_req {
+    id: SEC001
     text: Users must authenticate via OAuth
     risk: high
     verifymethod: test
-  }
+    }
 
-  requirement encrypt_req {
-    id: SEC-002
-    text: Personal config must be AES-256 encrypted
+    requirement encrypt_req {
+    id: SEC002
+    text: Personal config must be AES256 encrypted
     risk: high
     verifymethod: inspection
-  }
+    }
 
-  requirement token_req {
-    id: SEC-003
+    requirement token_req {
+    id: SEC003
     text: Tokens stored in IndexedDB only
     risk: medium
     verifymethod: analysis
-  }
+    }
 
-  requirement byok_req {
-    id: SEC-004
+    requirement byok_req {
+    id: SEC004
     text: AI keys never leave the browser
     risk: high
     verifymethod: test
-  }
+    }
 
-  element github_oauth {
+    element github_oauth {
     type: module
     docRef: platform/github/client.ts
-  }
+    }
 
-  element crypto_module {
+    element crypto_module {
     type: module
     docRef: platform/crypto.ts
-  }
+    }
 
-  github_oauth - satisfies -> auth_req
-  crypto_module - satisfies -> encrypt_req
-  token_req - deriveReqt -> auth_req
-  byok_req - refines -> encrypt_req
+    github_oauth - satisfies -> auth_req
+    crypto_module - satisfies -> encrypt_req
+    token_req - deriveReqt -> auth_req
+    byok_req - refines -> encrypt_req
 ```
 
 ---
@@ -570,10 +570,10 @@ Multi-axis spider chart comparing entities across several dimensions simultaneou
 %% preset: radar
 radar-beta
   title Team Skills Assessment
-  axis r(React), t(TypeScript), g(Git), d(DevOps), a(Architecture), u(UX Design)
-  curve a("Frontend Team") { 90, 85, 70, 50, 60, 75 }
-  curve b("Platform Team") { 60, 80, 90, 95, 85, 40 }
-  curve c("Design Team") { 45, 30, 40, 20, 50, 95 }
+  axis React, TypeScript, Git, DevOps, Architecture, UX Design
+  curve Frontend Team { 90, 85, 70, 50, 60, 75 }
+  curve Platform Team { 60, 80, 90, 95, 85, 40 }
+  curve Design Team { 45, 30, 40, 20, 50, 95 }
 ```
 
 ### Sankey Diagram
@@ -620,25 +620,24 @@ Nested rectangles showing hierarchical data where size represents quantity. Effi
 ```mermaid
 %% preset: treemap
 treemap-beta
-  root["Obesian Oats Codebase"]
-    features["features/ (45%)"]
-      editor["editor/ (15%)"]
-      notes["notes/ (8%)"]
-      ai["ai/ (7%)"]
-      connect["connect/ (5%)"]
-      others["others (10%)"]
-    domain["domain/ (20%)"]
-      notesParsers["notes & parsers (10%)"]
-      appTypes["app types (7%)"]
-      utils["utilities (3%)"]
-    platform["platform/ (25%)"]
-      github["github/ (10%)"]
-      storage["storage/ (5%)"]
-      aiPlatform["ai/ (5%)"]
-      local["local/ (5%)"]
-    cli["cli/ (10%)"]
-      commands["commands (6%)"]
-      mcp["MCP server (4%)"]
+"features/ (45%)"
+  "editor/": 15
+  "notes/": 8
+  "ai/": 7
+  "connect/": 5
+  "others": 10
+"domain/ (20%)"
+  "notes & parsers": 10
+  "app types": 7
+  "utilities": 3
+"platform/ (25%)"
+  "github/": 10
+  "storage/": 5
+  "ai/": 5
+  "local/": 5
+"cli/ (10%)"
+  "commands": 6
+  "MCP server": 4
 ```
 
 ---
