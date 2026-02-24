@@ -1,8 +1,14 @@
 ---
+id: ""
+title: System Landscape C4
+created: ""
+updated: "2026-02-24T18:14:09.098Z"
 type: graph
-title: "System Landscape C4"
 ---
 # System Landscape C4
+
+## Mode
+- flowchart
 
 ## Mermaid
 ```mermaid
