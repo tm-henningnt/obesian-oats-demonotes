@@ -2,7 +2,7 @@
 id: "45e94f81-1123-453e-9d86-b9f8f97a734b"
 title: Team Offsite Brainstorm Board
 created: "2026-02-28T09:46:10.993Z"
-updated: "2026-02-28T09:47:34.441Z"
+updated: "2026-02-28T09:47:43.109Z"
 type: board
 ---
 # Board
@@ -29,7 +29,7 @@ type: board
 - {"id":"ws-exp-1","kind":"text","ref":"","title":"Experiment: no-meeting Wednesday pilot for 4 weeks","color":"#c7d2fe","tags":["experiment"],"x":374,"y":370,"w":300,"h":110}
 - {"id":"ws-exp-2","kind":"text","ref":"","title":"Workshop output: shared definition of done checklist","color":"#ddd6fe","tags":["artifact"],"x":706,"y":370,"w":300,"h":110}
 - {"id":"ws-owner","kind":"text","ref":"","title":"Owner: Maja — draft facilitation runbook before next offsite","color":"#fde68a","tags":["owner"],"locked":true,"x":1040,"y":450,"w":340,"h":122}
-- {"id":"card-bf6bc24d-a4ab-4a0f-abb1-745091cf19d4","kind":"text","ref":"","title":"Parking lot: async collaboration experiments","color":"#f5f3ff","x":1040,"y":600,"w":200,"h":160}
+- {"id":"card-bf6bc24d-a4ab-4a0f-abb1-745091cf19d4","kind":"text","ref":"","title":"Parking lot: async collaboration experiments","color":"#f5f3ff","x":1040,"y":590,"w":340,"h":120}
 
 ## Drawings
 - {"id":"ws-title","kind":"text","x":20,"y":20,"w":640,"h":56,"text":"Team Offsite Brainstorm (Process Evidence)","fontSize":26,"fontFamily":"Inter","fontWeight":"700","layer":40,"locked":false,"hidden":false}
