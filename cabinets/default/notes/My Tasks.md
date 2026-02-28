@@ -27,3 +27,4 @@ type: todo
 
 ## Done
 - [x] Try Swift playground for habit tracker idea [cat:Someday] <!-- task:ybve45v9 -->
+Read-only probe append
