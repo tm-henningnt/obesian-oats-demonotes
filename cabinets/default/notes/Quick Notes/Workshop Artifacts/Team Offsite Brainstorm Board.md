@@ -2,7 +2,7 @@
 id: "45e94f81-1123-453e-9d86-b9f8f97a734b"
 title: Team Offsite Brainstorm Board
 created: "2026-02-28T09:46:10.993Z"
-updated: "2026-02-28T09:46:31.697Z"
+updated: "2026-02-28T09:47:34.441Z"
 type: board
 ---
 # Board
@@ -29,16 +29,16 @@ type: board
 - {"id":"ws-exp-1","kind":"text","ref":"","title":"Experiment: no-meeting Wednesday pilot for 4 weeks","color":"#c7d2fe","tags":["experiment"],"x":374,"y":370,"w":300,"h":110}
 - {"id":"ws-exp-2","kind":"text","ref":"","title":"Workshop output: shared definition of done checklist","color":"#ddd6fe","tags":["artifact"],"x":706,"y":370,"w":300,"h":110}
 - {"id":"ws-owner","kind":"text","ref":"","title":"Owner: Maja — draft facilitation runbook before next offsite","color":"#fde68a","tags":["owner"],"locked":true,"x":1040,"y":450,"w":340,"h":122}
+- {"id":"card-bf6bc24d-a4ab-4a0f-abb1-745091cf19d4","kind":"text","ref":"","title":"Parking lot: async collaboration experiments","color":"#f5f3ff","x":1040,"y":600,"w":200,"h":160}
 
 ## Drawings
-- {"id":"ws-title","kind":"text","x":20,"y":20,"w":640,"h":56,"text":"Team Offsite Brainstorm (Process Evidence)","fontSize":26,"fontFamily":"Inter","fontWeight":"700","textAlign":"left","layer":40}
-- {"id":"ws-spline","kind":"spline","x":0,"y":0,"points":[344,422,370,422,706,422,1038,510],"stroke":"#6366f1","strokeWidth":3,"lineStyle":"dashed","layer":20}
-- {"id":"ws-ellipse","kind":"ellipse","x":1000,"y":430,"w":396,"h":170,"stroke":"#f59e0b","fill":"rgba(245,158,11,0.09)","strokeWidth":2,"layer":-1}
-- {"id":"ws-caption","kind":"text","x":1020,"y":598,"w":360,"h":40,"text":"Captured and retained as workshop evidence","fontSize":14,"fontStyle":"italic","textDecoration":"underline","textAlign":"right","layer":35}
+- {"id":"ws-title","kind":"text","x":20,"y":20,"w":640,"h":56,"text":"Team Offsite Brainstorm (Process Evidence)","fontSize":26,"fontFamily":"Inter","fontWeight":"700","layer":40,"locked":false,"hidden":false}
+- {"id":"ws-spline","kind":"spline","x":0,"y":0,"stroke":"#6366f1","strokeWidth":3,"lineStyle":"dashed","layer":20,"locked":false,"hidden":false,"points":[344,422,370,422,706,422,1038,510]}
+- {"id":"ws-ellipse","kind":"ellipse","x":1000,"y":430,"w":396,"h":170,"stroke":"#f59e0b","fill":"rgba(245,158,11,0.09)","strokeWidth":2,"layer":-1,"locked":false,"hidden":false}
+- {"id":"ws-caption","kind":"text","x":1020,"y":598,"w":360,"h":40,"text":"Captured and retained as workshop evidence","fontSize":14,"layer":35,"locked":false,"hidden":false}
 
 ## Zones
-- {"id":"ws-zone-input","title":"Inputs","x":0,"y":84,"w":350,"h":650,"color":"rgba(147,197,253,0.12)","layer":-5}
-- {"id":"ws-zone-ideas","title":"Ideas","x":356,"y":84,"w":320,"h":650,"color":"rgba(199,210,254,0.16)","layer":-5}
-- {"id":"ws-zone-experiments","title":"Experiments","x":682,"y":84,"w":320,"h":650,"color":"rgba(221,214,254,0.16)","layer":-5}
-- {"id":"ws-zone-owners","title":"Owners & Evidence","x":1008,"y":84,"w":408,"h":650,"color":"rgba(254,240,138,0.16)","layer":-5}
-
+- {"id":"ws-zone-input","title":"Inputs","x":0,"y":84,"w":350,"h":650,"color":"rgba(147,197,253,0.12)","layer":-5,"locked":false,"hidden":false}
+- {"id":"ws-zone-ideas","title":"Ideas","x":356,"y":84,"w":320,"h":650,"color":"rgba(199,210,254,0.16)","layer":-5,"locked":false,"hidden":false}
+- {"id":"ws-zone-experiments","title":"Experiments","x":682,"y":84,"w":320,"h":650,"color":"rgba(221,214,254,0.16)","layer":-5,"locked":false,"hidden":false}
+- {"id":"ws-zone-owners","title":"Owners & Evidence","x":1008,"y":84,"w":408,"h":650,"color":"rgba(254,240,138,0.16)","layer":-5,"locked":false,"hidden":false}
